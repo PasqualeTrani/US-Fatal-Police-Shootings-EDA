@@ -55,7 +55,7 @@ The work is organized as follows:
 |   'gender'	|   the gender of the killed person	|   categorial	|   	|
 |   'race'	|   the race of the killed person	|  categorical 	|    W: White <br> B: Black <br> H: Hispanic <br> A: Asian <br> N: Native <br> O: Other	|
 |   'city'	|   the city where the person was killed	|   categorical 	|   	|
-|   'signs_of_mental_illness'	|   if the person had signs of mental illness	|   Boolean	|   True: the person had sign of mental illness <br> False: the person had not present signs of mental illness	|
+|   'signs_of_mental_illness'	|   if the person had signs of mental illness	|   Boolean	|   True: the person had sign of mental illness <br> False: the person had not signs of mental illness	|
 |   'threat_level'	|  the threat level for the police 	|   categorical 	|  attack: the criminal was attacking the police <br> other: the criminal was not attacking the police <br> undetermined : the threat level is undetermined	|
 |   'flee'	|   how the criminal was fleeing	|   categorical  	| Not fleeing: the criminal was not fleeing <br> Car : the criminal was using a car to flee <br> Foot : the crimal was fleeing by foot <br> Other : the criminal was fleeing in different ways 	|
 | 'body_camera'  	|   if the police had a body camera installed	|  Boolean 	| True: the police had a body camera <br>   False: the police had not a body camera	|
